@@ -1,0 +1,14 @@
+StandAlone.java : it used for run same Mapper Reduce logic in stand alone mode 
+
+Batting.csv     : it contains data of players
+
+CsvCreator.java : Used to create similar csv file with any size in similar format 
+
+BattingExample.java : MapReduce Driver Class
+
+BattingMapper.java  : MapReduce Mapper Class
+
+BattingReducer.java  : MapReduce Reducer Class
+
+
+Batting.jar          : MapReduce Jar 
